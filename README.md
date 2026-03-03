@@ -1,5 +1,5 @@
 # ---------------------------------------------------------
-# PROJE: Gübre Önerisi Sınıflandırma Modelleri (J48, KNN, Naive Bayes)
+# PROJE: Veri Madenciliği ile Tarımsal Verimlilik Analizi: Naive Bayes Tabanlı Karar Destek Modeli
 # Yazar: Hüsna
 # ---------------------------------------------------------
 
